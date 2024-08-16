@@ -1,1 +1,2 @@
-# datascience
+# Data science
+Analysis of various datasets.
